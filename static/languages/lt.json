@@ -1,13 +1,17 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kiek maisto atliekų išmeta maisto pramonė?",
+  "subtitle": "ES 27 maisto pramonė 2023 m. vidutiniškai generavo 24 kg maisto atliekų vienam gyventojui. Didžiausias kiekis užfiksuotas Danijoje – 124 kg vienam gyventojui, po jos seka Kipras (70 kg) ir Airija (57 kg), o mažiausias – Portugalija (5 kg).",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Eurostatas (2026 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
+  "extraInfo_ES": "Apskaičiuota vertė",
+  "extraInfo_CY": "Apskaičiuota vertė",
+  "extraInfo_LT": "Apskaičiuota vertė",
+  "extraInfo_PL": "Apskaičiuota vertė",
+  "extraInfo_PT": "Apskaičiuota vertė",
+  "extraInfo_SE": "Apskaičiuota vertė",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "customUnitLabel": "kilogramų vienam gyventojui",
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
