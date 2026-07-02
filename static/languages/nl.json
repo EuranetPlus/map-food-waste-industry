@@ -1,13 +1,17 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoeveel voedselverspilling wordt er veroorzaakt door de voedselindustrie?",
+  "subtitle": "In de EU27 produceerde de voedingsmiddelenindustrie in 2023 gemiddeld 24 kg voedselafval per persoon. Denemarken noteerde het hoogste niveau met 124 kg per hoofd van de bevolking, gevolgd door Cyprus met 70 kg en Ierland met 57 kg, terwijl Portugal de laagste waarde had met 5 kg.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
+  "extraInfo_ES": "Geschatte waarde",
+  "extraInfo_CY": "Geschatte waarde",
+  "extraInfo_LT": "Geschatte waarde",
+  "extraInfo_PL": "Geschatte waarde",
+  "extraInfo_PT": "Geschatte waarde",
+  "extraInfo_SE": "Geschatte waarde",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "kilogram per hoofd van de bevolking",
   "tooltipExtraInfoLabel": "Klik hier"
 }
