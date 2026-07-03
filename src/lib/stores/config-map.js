@@ -1,7 +1,8 @@
 import { writable } from 'svelte/store';
+
 export const mapConfig = writable({
   "title": "How much food waste is caused by the food industry?",
-  "subtitle": "In the EU27, the food industry generated an average of 24 kg of food waste per person in 2023, with Denmark recording the highest level at 124 kg per capita, followed by Cyprus with 70 kg and Ireland with 57 kg, while Portugal had the lowest value at 5 kg",
+  "subtitle": "On average, the agri-food industry in the EU produced 24 kg of food waste per capita in 2023. Denmark recorded the highest figure, at 124 kg per person, followed by Cyprus (70 kg) and Ireland (57 kg). Portugal had the lowest figure, at 5 kg per capita.",
   "colourSchemeClasses": 7,
   "data": "country,id,value,extraInfo,text_content\nBelgium,BE,53,false,\nBulgaria,BG,24,false,\nCzechia,CZ,13,false,\nDenmark,DK,124,false,\nGermany,DE,23,false,\nEstonia,EE,17,false,\nIreland,IE,57,false,\nGreece,EL,47,false,\nSpain,ES,11,false,Estimated value\nFrance,FR,34,false,\nCroatia,HR,11,false,\nItaly,IT,10,false,\nCyprus,CY,70,false,Estimated value\nLatvia,LV,15,false,\nLithuania,LT,19,false,Estimated value\nLuxembourg,LU,18,false,\nHungary,HU,18,false,\nMalta,MT,10,false,\nNetherlands,NL,48,false,\nAustria,AT,22,false,\nPoland,PL,15,false,Estimated value\nPortugal,PT,5,false,Estimated value\nRomania,RO,22,false,\nSlovenia,SI,10,false,\nSlovakia,SK,15,false,\nFinland,FI,26,false,\nSweden,SE,29,false,Estimated value",
   "parsedData": [
@@ -225,7 +226,7 @@ export const mapConfig = writable({
   "tooltipExtraInfoLabel": "Click here",
   "translate": {
     "title": "How much food waste is caused by the food industry?",
-    "subtitle": "In the EU27, the food industry generated an average of 24 kg of food waste per person in 2023, with Denmark recording the highest level at 124 kg per capita, followed by Cyprus with 70 kg and Ireland with 57 kg, while Portugal had the lowest value at 5 kg",
+    "subtitle": "On average, the agri-food industry in the EU produced 24 kg of food waste per capita in 2023. Denmark recorded the highest figure, at 124 kg per person, followed by Cyprus (70 kg) and Ireland (57 kg). Portugal had the lowest figure, at 5 kg per capita.",
     "textNoteDescription": "Note",
     "textNote": "",
     "textSourceDescription": "Source",

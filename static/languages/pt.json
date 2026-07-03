@@ -1,17 +1,17 @@
 {
   "title": "Qual a quantidade de desperdício alimentar causado pela indústria alimentícia?",
-  "subtitle": "Na UE27, a indústria alimentar gerou uma média de 24 kg de desperdício alimentar por pessoa em 2023, com a Dinamarca a registar o nível mais elevado, com 124 kg per capita, seguida do Chipre, com 70 kg, e da Irlanda, com 57 kg, enquanto Portugal apresentou o valor mais baixo, com 5 kg.",
+  "subtitle": "Em média, a indústria agroalimentar na UE produziu 24 kg de desperdício alimentar per capita em 2023. A Dinamarca registou o valor mais elevado, com 124 kg por pessoa, seguida de Chipre (70 kg) e da Irlanda (57 kg). Portugal apresentou o valor mais baixo, com 5 kg per capita.",
   "textNoteDescription": "Observação",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acesse os dados",
+  "legend1": "Não há dados disponíveis.",
+  "tooltipExtraInfoLabel": "Clique aqui",
   "extraInfo_ES": "Valor estimado",
   "extraInfo_CY": "Valor estimado",
   "extraInfo_LT": "Valor estimado",
   "extraInfo_PL": "Valor estimado",
   "extraInfo_PT": "Valor estimado",
   "extraInfo_SE": "Valor estimado",
-  "legend1": "Não há dados disponíveis.",
-  "customUnitLabel": "quilogramas per capita",
-  "tooltipExtraInfoLabel": "Clique aqui"
+  "customUnitLabel": "quilogramas per capita"
 }

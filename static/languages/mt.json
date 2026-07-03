@@ -1,17 +1,17 @@
 {
   "title": "Kemm ħela ta' ikel hija kkawżata mill-industrija tal-ikel?",
-  "subtitle": "Fl-UE27, l-industrija tal-ikel iġġenerat medja ta’ 24 kg ta’ skart tal-ikel għal kull persuna fl-2023, bid-Danimarka tirreġistra l-ogħla livell b’124 kg per capita, segwita minn Ċipru b’70 kg u l-Irlanda b’57 kg, filwaqt li l-Portugall kellu l-inqas valur b’5 kg",
+  "subtitle": "Bħala medja, l-industrija agroalimentari fl-UE pproduċiet 24 kg ta’ skart tal-ikel per capita fl-2023. Id-Danimarka rreġistrat l-ogħla ċifra, b’124 kg per capita, segwita minn Ċipru (70 kg) u l-Irlanda (57 kg). Il-Portugall kellu l-inqas ċifra, b’5 kg per capita.",
   "textNoteDescription": "Nota",
   "textSourceDescription": "Sors",
   "textSource": "L-Eurostat (2026)",
   "linkDataAccessDescription": "Aċċessa d-dejta",
+  "legend1": "L-ebda dejta disponibbli",
+  "tooltipExtraInfoLabel": "Ikklikkja hawn",
   "extraInfo_ES": "Valur stmat",
   "extraInfo_CY": "Valur stmat",
   "extraInfo_LT": "Valur stmat",
   "extraInfo_PL": "Valur stmat",
   "extraInfo_PT": "Valur stmat",
   "extraInfo_SE": "Valur stmat",
-  "legend1": "L-ebda dejta disponibbli",
-  "customUnitLabel": "kilogrammi per capita",
-  "tooltipExtraInfoLabel": "Ikklikkja hawn"
+  "customUnitLabel": "kilogrammi per capita"
 }

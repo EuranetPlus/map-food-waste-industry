@@ -1,17 +1,17 @@
 {
   "title": "Kui palju toidujäätmeid tekitab toiduainetööstus?",
-  "subtitle": "EL 27-s tekitas toiduainetööstus 2023. aastal keskmiselt 24 kg toidujäätmeid inimese kohta, kusjuures kõrgeim tase registreeriti Taanis, 124 kg inimese kohta, järgnesid Küpros 70 kg ja Iirimaa 57 kg, samas kui madalaim oli Portugalis, 5 kg.",
+  "subtitle": "Keskmiselt tekitas ELi põllumajandus- ja toidutööstus 2023. aastal 24 kg toidujäätmeid inimese kohta. Suurim näitaja oli Taanis, 124 kg inimese kohta, millele järgnesid Küpros (70 kg) ja Iirimaa (57 kg). Madalaim näitaja oli Portugalis, 5 kg inimese kohta.",
   "textNoteDescription": "Märkus",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia",
   "extraInfo_ES": "Hinnanguline väärtus",
   "extraInfo_CY": "Hinnanguline väärtus",
   "extraInfo_LT": "Hinnanguline väärtus",
   "extraInfo_PL": "Hinnanguline väärtus",
   "extraInfo_PT": "Hinnanguline väärtus",
   "extraInfo_SE": "Hinnanguline väärtus",
-  "legend1": "Andmed pole saadaval",
-  "customUnitLabel": "kilogrammi elaniku kohta",
-  "tooltipExtraInfoLabel": "Kliki siia"
+  "customUnitLabel": "kilogrammi elaniku kohta"
 }

@@ -1,17 +1,17 @@
 {
   "title": "Koliko živilskih odpadkov povzroči živilska industrija?",
-  "subtitle": "V EU-27 je živilska industrija leta 2023 ustvarila povprečno 24 kg živilskih odpadkov na osebo, pri čemer je Danska zabeležila najvišjo raven s 124 kg na prebivalca, sledili so Ciper s 70 kg in Irska s 57 kg, Portugalska pa je imela najnižjo vrednost s 5 kg.",
+  "subtitle": "V povprečju je agroživilska industrija v EU leta 2023 proizvedla 24 kg živilskih odpadkov na prebivalca. Danska je zabeležila najvišjo številko, 124 kg na prebivalca, sledili sta ji Ciper (70 kg) in Irska (57 kg). Portugalska je imela najnižjo številko, 5 kg na prebivalca.",
   "textNoteDescription": "Opomba",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
+  "legend1": "Ni na voljo podatkov",
+  "tooltipExtraInfoLabel": "Kliknite tukaj",
   "extraInfo_ES": "Ocenjena vrednost",
   "extraInfo_CY": "Ocenjena vrednost",
   "extraInfo_LT": "Ocenjena vrednost",
   "extraInfo_PL": "Ocenjena vrednost",
   "extraInfo_PT": "Ocenjena vrednost",
   "extraInfo_SE": "Ocenjena vrednost",
-  "legend1": "Ni na voljo podatkov",
-  "customUnitLabel": "kilogramov na prebivalca",
-  "tooltipExtraInfoLabel": "Kliknite tukaj"
+  "customUnitLabel": "kilogramov na prebivalca"
 }

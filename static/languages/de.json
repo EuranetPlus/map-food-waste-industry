@@ -1,17 +1,17 @@
 {
   "title": "Wie viel Lebensmittelverschwendung verursacht die Lebensmittelindustrie?",
-  "subtitle": "In der EU-27 produzierte die Lebensmittelindustrie im Jahr 2023 durchschnittlich 24 kg Lebensmittelabfälle pro Person. Dänemark verzeichnete mit 124 kg pro Kopf den höchsten Wert, gefolgt von Zypern mit 70 kg und Irland mit 57 kg, während Portugal mit 5 kg den niedrigsten Wert aufwies.",
+  "subtitle": "Im Durchschnitt produzierte die Agrar- und Lebensmittelindustrie in der EU im Jahr 2023 24 kg Lebensmittelabfälle pro Kopf. Dänemark verzeichnete mit 124 kg pro Person den höchsten Wert, gefolgt von Zypern (70 kg) und Irland (57 kg). Portugal wies mit 5 kg pro Kopf den niedrigsten Wert auf.",
   "textNoteDescription": "Notiz",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
+  "legend1": "Keine Daten verfügbar",
+  "tooltipExtraInfoLabel": "klicken Sie hier",
   "extraInfo_ES": "Schätzwert",
   "extraInfo_CY": "Schätzwert",
   "extraInfo_LT": "Schätzwert",
   "extraInfo_PL": "Schätzwert",
   "extraInfo_PT": "Schätzwert",
   "extraInfo_SE": "Schätzwert",
-  "legend1": "Keine Daten verfügbar",
-  "customUnitLabel": "Kilogramm pro Kopf",
-  "tooltipExtraInfoLabel": "klicken Sie hier"
+  "customUnitLabel": "Kilogramm pro Kopf"
 }

@@ -1,17 +1,17 @@
 {
   "title": "Quanti sprechi alimentari vengono causati dall'industria alimentare?",
-  "subtitle": "Nell'UE27, l'industria alimentare ha generato in media 24 kg di rifiuti alimentari pro capite nel 2023, con la Danimarca che ha registrato il livello più alto con 124 kg pro capite, seguita da Cipro con 70 kg e dall'Irlanda con 57 kg, mentre il Portogallo ha avuto il valore più basso con 5 kg.",
+  "subtitle": "In media, l'industria agroalimentare nell'UE ha prodotto 24 kg di rifiuti alimentari pro capite nel 2023. La Danimarca ha registrato il dato più alto, con 124 kg a persona, seguita da Cipro (70 kg) e Irlanda (57 kg). Il Portogallo ha avuto il dato più basso, con 5 kg pro capite.",
   "textNoteDescription": "Nota",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accedere ai dati",
+  "legend1": "Nessun dato disponibile",
+  "tooltipExtraInfoLabel": "clicca qui",
   "extraInfo_ES": "Valore stimato",
   "extraInfo_CY": "Valore stimato",
   "extraInfo_LT": "Valore stimato",
   "extraInfo_PL": "Valore stimato",
   "extraInfo_PT": "Valore stimato",
   "extraInfo_SE": "Valore stimato",
-  "legend1": "Nessun dato disponibile",
-  "customUnitLabel": "chilogrammi pro capite",
-  "tooltipExtraInfoLabel": "clicca qui"
+  "customUnitLabel": "chilogrammi pro capite"
 }

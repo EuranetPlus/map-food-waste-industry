@@ -1,17 +1,17 @@
 {
   "title": "Ile żywności marnuje przemysł spożywczy?",
-  "subtitle": "W UE27 przemysł spożywczy wytworzył średnio 24 kg odpadów żywnościowych na osobę w 2023 r., przy czym najwyższy poziom odnotowała Dania – 124 kg na osobę, następnie Cypr – 70 kg, Irlandia – 57 kg, a Portugalia odnotowała najniższy poziom – 5 kg",
+  "subtitle": "Średnio w 2023 roku przemysł rolno-spożywczy w UE wytworzył 24 kg odpadów żywnościowych na osobę. Najwyższy wskaźnik odnotowała Dania – 124 kg na osobę, następnie Cypr (70 kg) i Irlandia (57 kg). Najniższy wskaźnik odnotowała Portugalia – 5 kg na osobę.",
   "textNoteDescription": "Notatka",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Dostęp do danych",
+  "legend1": "Brak dostępnych danych",
+  "tooltipExtraInfoLabel": "Kliknij tutaj",
   "extraInfo_ES": "Szacunkowa wartość",
   "extraInfo_CY": "Szacunkowa wartość",
   "extraInfo_LT": "Szacunkowa wartość",
   "extraInfo_PL": "Szacunkowa wartość",
   "extraInfo_PT": "Szacunkowa wartość",
   "extraInfo_SE": "Szacunkowa wartość",
-  "legend1": "Brak dostępnych danych",
-  "customUnitLabel": "kilogramy na mieszkańca",
-  "tooltipExtraInfoLabel": "Kliknij tutaj"
+  "customUnitLabel": "kilogramy na mieszkańca"
 }

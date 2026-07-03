@@ -1,17 +1,17 @@
 {
   "title": "Kolik potravinového odpadu způsobuje potravinářský průmysl?",
-  "subtitle": "V EU27 produkoval potravinářský průmysl v roce 2023 průměrně 24 kg potravinového odpadu na osobu, přičemž nejvyšší úroveň zaznamenalo Dánsko se 124 kg na obyvatele, následované Kyprem se 70 kg a Irskem s 57 kg, zatímco nejnižší hodnotu mělo Portugalsko s 5 kg.",
+  "subtitle": "V průměru produkoval zemědělsko-potravinářský průmysl v EU v roce 2023 24 kg potravinového odpadu na osobu. Nejvyšší číslo zaznamenalo Dánsko, a to 124 kg na osobu, následované Kyprem (70 kg) a Irskem (57 kg). Nejnižší číslo mělo Portugalsko, a to 5 kg na osobu.",
   "textNoteDescription": "Poznámka",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Přístup k datům",
+  "legend1": "Nejsou k dispozici žádná data",
+  "tooltipExtraInfoLabel": "Klikněte zde",
   "extraInfo_ES": "Odhadovaná hodnota",
   "extraInfo_CY": "Odhadovaná hodnota",
   "extraInfo_LT": "Odhadovaná hodnota",
   "extraInfo_PL": "Odhadovaná hodnota",
   "extraInfo_PT": "Odhadovaná hodnota",
   "extraInfo_SE": "Odhadovaná hodnota",
-  "legend1": "Nejsou k dispozici žádná data",
-  "customUnitLabel": "kilogramů na obyvatele",
-  "tooltipExtraInfoLabel": "Klikněte zde"
+  "customUnitLabel": "kilogramů na obyvatele"
 }

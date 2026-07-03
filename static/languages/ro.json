@@ -1,17 +1,17 @@
 {
   "title": "Câtă risipă alimentară este cauzată de industria alimentară?",
-  "subtitle": "În UE-27, industria alimentară a generat o medie de 24 kg de risipă alimentară pe cap de locuitor în 2023, Danemarca înregistrând cel mai ridicat nivel, de 124 kg pe cap de locuitor, urmată de Cipru cu 70 kg și Irlanda cu 57 kg, în timp ce Portugalia a avut cea mai mică valoare, de 5 kg.",
+  "subtitle": "În medie, industria agroalimentară din UE a produs 24 kg de deșeuri alimentare pe cap de locuitor în 2023. Danemarca a înregistrat cea mai mare cifră, de 124 kg pe cap de locuitor, urmată de Cipru (70 kg) și Irlanda (57 kg). Portugalia a avut cea mai mică cifră, de 5 kg pe cap de locuitor.",
   "textNoteDescription": "Nota",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accesați datele",
+  "legend1": "Nu sunt disponibile date",
+  "tooltipExtraInfoLabel": "Click aici",
   "extraInfo_ES": "Valoare estimată",
   "extraInfo_CY": "Valoare estimată",
   "extraInfo_LT": "Valoare estimată",
   "extraInfo_PL": "Valoare estimată",
   "extraInfo_PT": "Valoare estimată",
   "extraInfo_SE": "Valoare estimată",
-  "legend1": "Nu sunt disponibile date",
-  "customUnitLabel": "kilograme pe cap de locuitor",
-  "tooltipExtraInfoLabel": "Click aici"
+  "customUnitLabel": "kilograme pe cap de locuitor"
 }

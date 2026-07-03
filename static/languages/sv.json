@@ -1,17 +1,17 @@
 {
   "title": "Hur mycket matsvinn orsakas av livsmedelsindustrin?",
-  "subtitle": "I EU27 genererade livsmedelsindustrin i genomsnitt 24 kg matsvinn per person år 2023, där Danmark hade den högsta nivån på 124 kg per capita, följt av Cypern med 70 kg och Irland med 57 kg, medan Portugal hade det lägsta värdet på 5 kg.",
+  "subtitle": "I genomsnitt producerade livsmedelsindustrin i EU 24 kg matavfall per capita år 2023. Danmark hade den högsta siffran, 124 kg per person, följt av Cypern (70 kg) och Irland (57 kg). Portugal hade den lägsta siffran, 5 kg per capita.",
   "textNoteDescription": "Notera",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Åtkomst till data",
+  "legend1": "Inga data tillgängliga",
+  "tooltipExtraInfoLabel": "Klicka här",
   "extraInfo_ES": "Uppskattat värde",
   "extraInfo_CY": "Uppskattat värde",
   "extraInfo_LT": "Uppskattat värde",
   "extraInfo_PL": "Uppskattat värde",
   "extraInfo_PT": "Uppskattat värde",
   "extraInfo_SE": "Uppskattat värde",
-  "legend1": "Inga data tillgängliga",
-  "customUnitLabel": "kilogram per capita",
-  "tooltipExtraInfoLabel": "Klicka här"
+  "customUnitLabel": "kilogram per capita"
 }
