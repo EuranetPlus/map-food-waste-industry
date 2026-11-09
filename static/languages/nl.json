@@ -1,17 +1,15 @@
 {
   "title": "Hoeveel voedselverspilling wordt er veroorzaakt door de voedselindustrie?",
-  "subtitle": "Gemiddeld produceerde de agrovoedingsindustrie in de EU in 2023 24 kg voedselafval per persoon. Denemarken noteerde het hoogste cijfer met 124 kg per persoon, gevolgd door Cyprus (70 kg) en Ierland (57 kg). Portugal had het laagste cijfer met 5 kg per persoon.",
+  "subtitle": "Gemiddeld produceerde de agrovoedingsindustrie in de EU in 2024 25 kg voedselafval per persoon. Denemarken noteerde het hoogste cijfer met 122 kg per persoon, gevolgd door Cyprus met 73 kg. Portugal had het laagste cijfer, met 6 kg per persoon.",
   "textNoteDescription": "Opmerking",
+  "textNote": "De gegevens hebben betrekking op NACE Rev. 2 Afdeling 10, die de verwerking van landbouw-, bosbouw- en visserijproducten tot levensmiddelen voor mens of dier omvat, evenals de productie van bepaalde halffabrikaten. De bereiding van maaltijden voor directe consumptie, zoals in restaurants, is niet inbegrepen.",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier",
-  "extraInfo_ES": "Geschatte waarde",
-  "extraInfo_CY": "Geschatte waarde",
-  "extraInfo_LT": "Geschatte waarde",
-  "extraInfo_PL": "Geschatte waarde",
-  "extraInfo_PT": "Geschatte waarde",
-  "extraInfo_SE": "Geschatte waarde",
+  "extraInfo_BG": "Gegevens uit 2023",
+  "extraInfo_DE": "Gegevens uit 2023",
+  "extraInfo_RO": "Gegevens uit 2023",
   "customUnitLabel": "kilogram per hoofd van de bevolking"
 }

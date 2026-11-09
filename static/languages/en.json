@@ -1,17 +1,15 @@
 {
   "title": "How much food waste is caused by the food industry?",
-  "subtitle": "On average, the agri-food industry in the EU produced 24 kg of food waste per capita in 2023. Denmark recorded the highest figure, at 124 kg per person, followed by Cyprus (70 kg) and Ireland (57 kg). Portugal had the lowest figure, at 5 kg per capita.",
+  "subtitle": "On average, the agri-food industry in the EU generated 25 kg of food waste per capita in 2024. Denmark recorded the highest figure, at 122 kg per person, followed by Cyprus with 73kg. Portugal had the lowest figure, at 6 kg per capita.",
   "textNoteDescription": "Note",
+  "textNote": "The data cover NACE Rev. 2 Division 10, which includes the processing of agricultural, forestry and fishing products into food for humans or animals, as well as the production of certain intermediate food products. The preparation of meals for immediate consumption, such as in restaurants, is not included.",
   "textSourceDescription": "Source",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Access the data",
   "legend1": "No data available",
   "tooltipExtraInfoLabel": "Click here",
-  "extraInfo_ES": "Estimated value",
-  "extraInfo_CY": "Estimated value",
-  "extraInfo_LT": "Estimated value",
-  "extraInfo_PL": "Estimated value",
-  "extraInfo_PT": "Estimated value",
-  "extraInfo_SE": "Estimated value",
+  "extraInfo_BG": "Data from 2023",
+  "extraInfo_DE": "Data from 2023",
+  "extraInfo_RO": "Data from 2023",
   "customUnitLabel": "kilograms per capita"
 }

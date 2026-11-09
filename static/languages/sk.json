@@ -1,17 +1,15 @@
 {
   "title": "Koľko potravinového odpadu spôsobuje potravinársky priemysel?",
-  "subtitle": "V priemere vyprodukoval agropotravinársky priemysel v EÚ v roku 2023 24 kg potravinového odpadu na obyvateľa. Najvyššiu hodnotu zaznamenalo Dánsko, a to 124 kg na osobu, nasledoval Cyprus (70 kg) a Írsko (57 kg). Najnižšiu hodnotu malo Portugalsko, a to 5 kg na obyvateľa.",
+  "subtitle": "V priemere vyprodukoval agropotravinársky priemysel v EÚ v roku 2024 25 kg potravinového odpadu na obyvateľa. Najvyššiu hodnotu zaznamenalo Dánsko, a to 122 kg na osobu, nasledované Cyprom so 73 kg. Najnižšiu hodnotu malo Portugalsko, a to 6 kg na obyvateľa.",
   "textNoteDescription": "Poznámka",
+  "textNote": "Údaje sa vzťahujú na NACE Rev. 2, oddiel 10, ktorý zahŕňa spracovanie poľnohospodárskych, lesníckych a rybárskych produktov na potraviny pre ľudí alebo zvieratá, ako aj výrobu určitých medziproduktov. Príprava jedál na okamžitú konzumáciu, napríklad v reštauráciách, nie je zahrnutá.",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltipExtraInfoLabel": "Kliknite sem",
-  "extraInfo_ES": "Odhadovaná hodnota",
-  "extraInfo_CY": "Odhadovaná hodnota",
-  "extraInfo_LT": "Odhadovaná hodnota",
-  "extraInfo_PL": "Odhadovaná hodnota",
-  "extraInfo_PT": "Odhadovaná hodnota",
-  "extraInfo_SE": "Odhadovaná hodnota",
+  "extraInfo_BG": "Údaje z roku 2023",
+  "extraInfo_DE": "Údaje z roku 2023",
+  "extraInfo_RO": "Údaje z roku 2023",
   "customUnitLabel": "kilogramov na obyvateľa"
 }

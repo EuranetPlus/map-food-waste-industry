@@ -1,17 +1,15 @@
 {
   "title": "Koliko otpada od hrane uzrokuje prehrambena industrija?",
-  "subtitle": "U prosjeku je poljoprivredno-prehrambena industrija u EU 2023. godine proizvela 24 kg otpada od hrane po stanovniku. Danska je zabilježila najveću brojku, 124 kg po osobi, a slijede Cipar (70 kg) i Irska (57 kg). Portugal je imao najnižu brojku, 5 kg po stanovniku.",
+  "subtitle": "U prosjeku, poljoprivredno-prehrambena industrija u EU generirala je 25 kg otpada od hrane po stanovniku u 2024. Danska je zabilježila najveću brojku, sa 122 kg po osobi, a slijedi Cipar sa 73 kg. Portugal je imao najnižu brojku, sa 6 kg po stanovniku.",
   "textNoteDescription": "Bilješka",
+  "textNote": "Podaci obuhvaćaju NACE Rev. 2 Odjeljak 10, koji uključuje preradu poljoprivrednih, šumarskih i ribarskih proizvoda u hranu za ljude ili životinje, kao i proizvodnju određenih međuprehrambenih proizvoda. Priprema obroka za neposrednu konzumaciju, kao što je u restoranima, nije uključena.",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat (2026.)",
   "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
   "tooltipExtraInfoLabel": "Kliknite ovdje",
-  "extraInfo_ES": "Procijenjena vrijednost",
-  "extraInfo_CY": "Procijenjena vrijednost",
-  "extraInfo_LT": "Procijenjena vrijednost",
-  "extraInfo_PL": "Procijenjena vrijednost",
-  "extraInfo_PT": "Procijenjena vrijednost",
-  "extraInfo_SE": "Procijenjena vrijednost",
+  "extraInfo_BG": "Podaci iz 2023.",
+  "extraInfo_DE": "Podaci iz 2023.",
+  "extraInfo_RO": "Podaci iz 2023.",
   "customUnitLabel": "kilograma po glavi stanovnika"
 }

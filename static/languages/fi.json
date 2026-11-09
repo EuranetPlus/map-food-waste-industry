@@ -1,17 +1,15 @@
 {
   "title": "Kuinka paljon ruokahävikkiä elintarviketeollisuus aiheuttaa?",
-  "subtitle": "EU:n maatalous- ja elintarviketeollisuus tuotti keskimäärin 24 kg ruokahävikkiä henkeä kohti vuonna 2023. Tanskassa luku oli suurin, 124 kg henkeä kohti, seuraavaksi eniten Kyproksella (70 kg) ja Irlannissa (57 kg). Portugalissa luku oli pienin, 5 kg henkeä kohti.",
+  "subtitle": "EU:n maatalous- ja elintarviketeollisuus tuotti keskimäärin 25 kg ruokahävikkiä henkeä kohti vuonna 2024. Tanskassa luku oli suurin, 122 kg henkeä kohti, ja seuraavaksi eniten Kyproksella, 73 kg. Portugalissa luku oli pienin, 6 kg henkeä kohti.",
   "textNoteDescription": "Huomautus",
+  "textNote": "Tiedot kattavat NACE Rev. 2:n kaksinumerotason 10, johon kuuluu maatalous-, metsätalous- ja kalastustuotteiden jalostus ihmis- tai eläinravinnoksi sekä tiettyjen elintarvikkeiden välituotteiden tuotanto. Aterioiden valmistus välittömään kulutukseen esimerkiksi ravintoloissa ei sisälly tähän.",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
   "legend1": "Ei tietoja saatavilla",
   "tooltipExtraInfoLabel": "Klikkaa tästä",
-  "extraInfo_ES": "Arvioitu arvo",
-  "extraInfo_CY": "Arvioitu arvo",
-  "extraInfo_LT": "Arvioitu arvo",
-  "extraInfo_PL": "Arvioitu arvo",
-  "extraInfo_PT": "Arvioitu arvo",
-  "extraInfo_SE": "Arvioitu arvo",
+  "extraInfo_BG": "Tiedot vuodelta 2023",
+  "extraInfo_DE": "Tiedot vuodelta 2023",
+  "extraInfo_RO": "Tiedot vuodelta 2023",
   "customUnitLabel": "kilogrammaa henkeä kohti"
 }

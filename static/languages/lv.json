@@ -1,17 +1,15 @@
 {
   "title": "Cik daudz pārtikas atkritumu rada pārtikas rūpniecība?",
-  "subtitle": "Vidēji ES lauksaimniecības un pārtikas rūpniecība 2023. gadā saražoja 24 kg pārtikas atkritumu uz vienu iedzīvotāju. Dānijā tika reģistrēts augstākais rādītājs – 124 kg uz vienu iedzīvotāju, kam sekoja Kipra (70 kg) un Īrija (57 kg). Viszemākais rādītājs bija Portugālē – 5 kg uz vienu iedzīvotāju.",
+  "subtitle": "Vidēji ES lauksaimniecības un pārtikas rūpniecība 2024. gadā radīja 25 kg pārtikas atkritumu uz vienu iedzīvotāju. Dānijā tika reģistrēts augstākais rādītājs – 122 kg uz vienu iedzīvotāju, kam sekoja Kipra ar 73 kg. Viszemākais rādītājs bija Portugālē – 6 kg uz vienu iedzīvotāju.",
   "textNoteDescription": "Piezīme",
+  "textNote": "Dati aptver NACE 2. rev. 10. nodaļu, kas ietver lauksaimniecības, mežsaimniecības un zivsaimniecības produktu pārstrādi pārtikā cilvēkiem vai dzīvniekiem, kā arī dažu pārtikas starpproduktu ražošanu. Ēdienu gatavošana tūlītējai lietošanai pārtikā, piemēram, restorānos, nav iekļauta.",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
   "legend1": "Dati nav pieejami",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit",
-  "extraInfo_ES": "Paredzamā vērtība",
-  "extraInfo_CY": "Paredzamā vērtība",
-  "extraInfo_LT": "Paredzamā vērtība",
-  "extraInfo_PL": "Paredzamā vērtība",
-  "extraInfo_PT": "Paredzamā vērtība",
-  "extraInfo_SE": "Paredzamā vērtība",
+  "extraInfo_BG": "Dati no 2023. gada",
+  "extraInfo_DE": "Dati no 2023. gada",
+  "extraInfo_RO": "Dati no 2023. gada",
   "customUnitLabel": "kilogrami uz vienu iedzīvotāju"
 }

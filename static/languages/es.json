@@ -1,17 +1,15 @@
 {
   "title": "¿Cuánta basura alimentaria genera la industria alimentaria?",
-  "subtitle": "En promedio, la industria agroalimentaria de la UE generó 24 kg de residuos alimentarios per cápita en 2023. Dinamarca registró la cifra más alta, con 124 kg por persona, seguida de Chipre (70 kg) e Irlanda (57 kg). Portugal presentó la cifra más baja, con 5 kg per cápita.",
+  "subtitle": "En promedio, el sector agroalimentario de la UE generó 25 kg de residuos alimentarios per cápita en 2024. Dinamarca registró la cifra más alta, con 122 kg por persona, seguida de Chipre con 73 kg. Portugal presentó la cifra más baja, con 6 kg per cápita.",
   "textNoteDescription": "Nota",
+  "textNote": "Los datos corresponden a la División 10 de la NACE Rev. 2, que incluye el procesamiento de productos agrícolas, forestales y pesqueros para la alimentación humana o animal, así como la producción de ciertos productos alimenticios intermedios. No se incluye la preparación de comidas para consumo inmediato, como las que se realizan en restaurantes.",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
   "legend1": "No hay datos disponibles",
   "tooltipExtraInfoLabel": "haga clic aquí",
-  "extraInfo_ES": "Valor estimado",
-  "extraInfo_CY": "Valor estimado",
-  "extraInfo_LT": "Valor estimado",
-  "extraInfo_PL": "Valor estimado",
-  "extraInfo_PT": "Valor estimado",
-  "extraInfo_SE": "Valor estimado",
+  "extraInfo_BG": "Datos de 2023",
+  "extraInfo_DE": "Datos de 2023",
+  "extraInfo_RO": "Datos de 2023",
   "customUnitLabel": "kilogramos per cápita"
 }

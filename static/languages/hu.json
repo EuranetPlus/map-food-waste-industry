@@ -1,17 +1,15 @@
 {
   "title": "Mennyi élelmiszer-pazarlást okoz az élelmiszeripar?",
-  "subtitle": "Az EU agrár-élelmiszeriparában átlagosan 24 kg élelmiszer-hulladék keletkezett fejenként 2023-ban. Dániában volt a legmagasabb az érték, 124 kg/fő, ezt követte Ciprus (70 kg) és Írország (57 kg). A legalacsonyabb Portugáliában volt az érték, 5 kg/fő.",
+  "subtitle": "Az EU agrár-élelmiszeriparában átlagosan 25 kg élelmiszer-hulladék keletkezett fejenként 2024-ben. Dániában volt a legmagasabb az érték, 122 kg/fő, ezt követte Ciprus 73 kg-mal. Portugáliában volt a legalacsonyabb, 6 kg/fő.",
   "textNoteDescription": "Jegyzet",
+  "textNote": "Az adatok a NACE Rev. 2 10. ágazatát fedik le, amely magában foglalja a mezőgazdasági, erdészeti és halászati termékek emberi vagy állati célra szánt élelmiszerré történő feldolgozását, valamint bizonyos köztes élelmiszertermékek előállítását. Az azonnali fogyasztásra szánt ételek elkészítése, például éttermekben, nem tartozik ide.",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
   "legend1": "Nincsenek elérhető adatok",
   "tooltipExtraInfoLabel": "Kattintson ide",
-  "extraInfo_ES": "Becsült érték",
-  "extraInfo_CY": "Becsült érték",
-  "extraInfo_LT": "Becsült érték",
-  "extraInfo_PL": "Becsült érték",
-  "extraInfo_PT": "Becsült érték",
-  "extraInfo_SE": "Becsült érték",
+  "extraInfo_BG": "2023-as adatok",
+  "extraInfo_DE": "2023-as adatok",
+  "extraInfo_RO": "2023-as adatok",
   "customUnitLabel": "kilogramm fejenként"
 }

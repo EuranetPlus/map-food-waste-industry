@@ -1,17 +1,15 @@
 {
   "title": "Cé mhéad dramhaíola bia is cúis leis an tionscal bia?",
-  "subtitle": "Ar an meán, tháirg tionscal an agraibhia san AE 24 kg de dhramhaíl bia in aghaidh an duine in 2023. Ba sa Danmhairg a thaifead an figiúr is airde, ag 124 kg in aghaidh an duine, agus ina diaidh sin sa Chipir (70 kg) agus in Éirinn (57 kg). Ba sa Phortaingéil a bhí an figiúr is ísle, ag 5 kg in aghaidh an duine.",
+  "subtitle": "Ar an meán, ghin tionscal an agraibhia san AE 25 kg de dhramhaíl bia in aghaidh an duine in 2024. Ba sa Danmhairg a thaifeadadh an figiúr is airde, ag 122 kg in aghaidh an duine, agus sa Chipir ina diaidh sin le 73 kg. Ba sa Phortaingéil a bhí an figiúr is ísle, ag 6 kg in aghaidh an duine.",
   "textNoteDescription": "Nóta",
+  "textNote": "Clúdaíonn na sonraí NACE Athbhreithniú 2 Rannán 10, lena n-áirítear próiseáil táirgí talmhaíochta, foraoiseachta agus iascaireachta ina mbia do dhaoine nó d’ainmhithe, chomh maith le táirgeadh táirgí bia idirmheánacha áirithe. Ní áirítear ullmhú béilí le haghaidh tomhaltais láithreach, amhail i mbialanna.",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltipExtraInfoLabel": "Cliceáil anseo",
-  "extraInfo_ES": "Luach measta",
-  "extraInfo_CY": "Luach measta",
-  "extraInfo_LT": "Luach measta",
-  "extraInfo_PL": "Luach measta",
-  "extraInfo_PT": "Luach measta",
-  "extraInfo_SE": "Luach measta",
+  "extraInfo_BG": "Sonraí ó 2023",
+  "extraInfo_DE": "Sonraí ó 2023",
+  "extraInfo_RO": "Sonraí ó 2023",
   "customUnitLabel": "cileagraim in aghaidh an duine"
 }

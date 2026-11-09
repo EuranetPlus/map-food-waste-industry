@@ -1,17 +1,15 @@
 {
   "title": "Hvor meget madspild forårsager fødevareindustrien?",
-  "subtitle": "I gennemsnit producerede landbrugsfødevareindustrien i EU 24 kg madspild pr. indbygger i 2023. Danmark registrerede det højeste tal med 124 kg pr. person, efterfulgt af Cypern (70 kg) og Irland (57 kg). Portugal havde det laveste tal med 5 kg pr. indbygger.",
+  "subtitle": "I gennemsnit genererede landbrugsfødevareindustrien i EU 25 kg madspild pr. indbygger i 2024. Danmark registrerede det højeste tal med 122 kg pr. person, efterfulgt af Cypern med 73 kg. Portugal havde det laveste tal med 6 kg pr. indbygger.",
   "textNoteDescription": "Note",
+  "textNote": "Dataene dækker NACE Rev. 2 Hovedgruppe 10, som omfatter forarbejdning af landbrugs-, skovbrugs- og fiskeriprodukter til fødevarer til mennesker eller dyr, samt produktion af visse mellemprodukter. Tilberedning af måltider til øjeblikkelig fortæring, f.eks. på restauranter, er ikke inkluderet.",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Få adgang til dataene",
   "legend1": "Ingen data tilgængelige",
   "tooltipExtraInfoLabel": "Klik her",
-  "extraInfo_ES": "Estimeret værdi",
-  "extraInfo_CY": "Estimeret værdi",
-  "extraInfo_LT": "Estimeret værdi",
-  "extraInfo_PL": "Estimeret værdi",
-  "extraInfo_PT": "Estimeret værdi",
-  "extraInfo_SE": "Estimeret værdi",
+  "extraInfo_BG": "Data fra 2023",
+  "extraInfo_DE": "Data fra 2023",
+  "extraInfo_RO": "Data fra 2023",
   "customUnitLabel": "kilogram pr. indbygger"
 }

@@ -1,17 +1,15 @@
 {
   "title": "Quelle quantité de déchets alimentaires est causée par l'industrie alimentaire ?",
-  "subtitle": "En moyenne, le secteur agroalimentaire de l'UE a produit 24 kg de déchets alimentaires par habitant en 2023. Le Danemark a enregistré le chiffre le plus élevé, à 124 kg par personne, suivi de Chypre (70 kg) et de l'Irlande (57 kg). Le Portugal affichait le chiffre le plus bas, à 5 kg par habitant.",
+  "subtitle": "En moyenne, l'industrie agroalimentaire de l'UE a généré 25 kg de déchets alimentaires par habitant en 2024. Le Danemark a enregistré le chiffre le plus élevé, à 122 kg par personne, suivi de Chypre avec 73 kg. Le Portugal a affiché le chiffre le plus bas, à 6 kg par habitant.",
   "textNoteDescription": "Note",
+  "textNote": "Les données concernent la division 10 de la NACE Rév. 2, qui inclut la transformation des produits agricoles, forestiers et de la pêche en aliments destinés à la consommation humaine ou animale, ainsi que la production de certains produits alimentaires intermédiaires. La préparation de repas destinés à la consommation immédiate, comme dans les restaurants, n'est pas incluse.",
   "textSourceDescription": "Source",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accéder aux données",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici",
-  "extraInfo_ES": "valeur estimée",
-  "extraInfo_CY": "valeur estimée",
-  "extraInfo_LT": "valeur estimée",
-  "extraInfo_PL": "valeur estimée",
-  "extraInfo_PT": "valeur estimée",
-  "extraInfo_SE": "valeur estimée",
+  "extraInfo_BG": "Données de 2023",
+  "extraInfo_DE": "Données de 2023",
+  "extraInfo_RO": "Données de 2023",
   "customUnitLabel": "kilogrammes par habitant"
 }

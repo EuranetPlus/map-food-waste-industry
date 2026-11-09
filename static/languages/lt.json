@@ -1,17 +1,15 @@
 {
   "title": "Kiek maisto atliekų išmeta maisto pramonė?",
-  "subtitle": "Vidutiniškai ES žemės ūkio maisto pramonė 2023 m. pagamino 24 kg maisto atliekų vienam gyventojui. Didžiausias rodiklis užfiksuotas Danijoje – 124 kg vienam gyventojui, po jos seka Kipras (70 kg) ir Airija (57 kg). Mažiausias rodiklis buvo Portugalijoje – 5 kg vienam gyventojui.",
+  "subtitle": "Vidutiniškai ES žemės ūkio maisto pramonė 2024 m. pagamino 25 kg maisto atliekų vienam gyventojui. Didžiausias rodiklis užfiksuotas Danijoje – 122 kg vienam gyventojui, po jos seka Kipras – 73 kg. Mažiausias rodiklis užfiksuotas Portugalijoje – 6 kg vienam gyventojui.",
   "textNoteDescription": "Pastaba",
+  "textNote": "Duomenys apima NACE 2 red. 10 skyrių, kuris apima žemės ūkio, miškininkystės ir žuvininkystės produktų perdirbimą į maistą žmonėms ar gyvūnams, taip pat tam tikrų tarpinių maisto produktų gamybą. Maisto ruošimas vartoti nedelsiant, pavyzdžiui, restoranuose, neįtrauktas.",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas (2026 m.)",
   "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
   "tooltipExtraInfoLabel": "Spustelėkite čia",
-  "extraInfo_ES": "Apskaičiuota vertė",
-  "extraInfo_CY": "Apskaičiuota vertė",
-  "extraInfo_LT": "Apskaičiuota vertė",
-  "extraInfo_PL": "Apskaičiuota vertė",
-  "extraInfo_PT": "Apskaičiuota vertė",
-  "extraInfo_SE": "Apskaičiuota vertė",
+  "extraInfo_BG": "2023 m. duomenys",
+  "extraInfo_DE": "2023 m. duomenys",
+  "extraInfo_RO": "2023 m. duomenys",
   "customUnitLabel": "kilogramų vienam gyventojui"
 }
